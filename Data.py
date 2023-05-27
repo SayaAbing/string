@@ -48,13 +48,13 @@ By @azure_id
     ABOUT = """
 **About This Bot** 
 
-Pyrogram dan telethon string session by @CilikStringBot
+Pyrogram dan telethon string session by @nakama_asl
 
-Group Support : [support](https://t.me/CilikSupport)
+Group Support : [support](https://t.me/Executivebanget)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @greyyvbss
+Developer : @azure_id
     """
